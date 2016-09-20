@@ -1,0 +1,2 @@
+defmodule RanchTest do
+end
